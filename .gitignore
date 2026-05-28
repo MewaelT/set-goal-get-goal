@@ -1,0 +1,28 @@
+## Ignore build outputs
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Rider
+.idea/
+
+# Test platform and refs
+backend/Tests/bin/
+backend/Tests/obj/
+backend/Tests/refs/
+
+# Temporary files
+.tmp/
+
+# NuGet
+*.nupkg
+.packages/
+
+# logs
+*.log

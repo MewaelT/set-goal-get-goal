@@ -1,0 +1,12 @@
+C:\Users\TestUser\spec-kit-app\spec-kit-app\ServiceDefaults\bin\Debug\net10.0\ServiceDefaults.deps.json
+C:\Users\TestUser\spec-kit-app\spec-kit-app\ServiceDefaults\bin\Debug\net10.0\ServiceDefaults.dll
+C:\Users\TestUser\spec-kit-app\spec-kit-app\ServiceDefaults\bin\Debug\net10.0\ServiceDefaults.pdb
+C:\Users\TestUser\spec-kit-app\spec-kit-app\ServiceDefaults\obj\Debug\net10.0\ServiceDefaults.csproj.AssemblyReference.cache
+C:\Users\TestUser\spec-kit-app\spec-kit-app\ServiceDefaults\obj\Debug\net10.0\ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TestUser\spec-kit-app\spec-kit-app\ServiceDefaults\obj\Debug\net10.0\ServiceDefaults.AssemblyInfoInputs.cache
+C:\Users\TestUser\spec-kit-app\spec-kit-app\ServiceDefaults\obj\Debug\net10.0\ServiceDefaults.AssemblyInfo.cs
+C:\Users\TestUser\spec-kit-app\spec-kit-app\ServiceDefaults\obj\Debug\net10.0\ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\spec-kit-app\spec-kit-app\ServiceDefaults\obj\Debug\net10.0\ServiceDefaults.dll
+C:\Users\TestUser\spec-kit-app\spec-kit-app\ServiceDefaults\obj\Debug\net10.0\refint\ServiceDefaults.dll
+C:\Users\TestUser\spec-kit-app\spec-kit-app\ServiceDefaults\obj\Debug\net10.0\ServiceDefaults.pdb
+C:\Users\TestUser\spec-kit-app\spec-kit-app\ServiceDefaults\obj\Debug\net10.0\ref\ServiceDefaults.dll

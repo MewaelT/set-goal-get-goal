@@ -1,0 +1,14 @@
+C:\Users\TestUser\spec-kit-app\spec-kit-app\.tmp\inspect_nunit\bin\Debug\net10.0\inspect.exe
+C:\Users\TestUser\spec-kit-app\spec-kit-app\.tmp\inspect_nunit\bin\Debug\net10.0\inspect.deps.json
+C:\Users\TestUser\spec-kit-app\spec-kit-app\.tmp\inspect_nunit\bin\Debug\net10.0\inspect.runtimeconfig.json
+C:\Users\TestUser\spec-kit-app\spec-kit-app\.tmp\inspect_nunit\bin\Debug\net10.0\inspect.dll
+C:\Users\TestUser\spec-kit-app\spec-kit-app\.tmp\inspect_nunit\bin\Debug\net10.0\inspect.pdb
+C:\Users\TestUser\spec-kit-app\spec-kit-app\.tmp\inspect_nunit\obj\Debug\net10.0\inspect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TestUser\spec-kit-app\spec-kit-app\.tmp\inspect_nunit\obj\Debug\net10.0\inspect.AssemblyInfoInputs.cache
+C:\Users\TestUser\spec-kit-app\spec-kit-app\.tmp\inspect_nunit\obj\Debug\net10.0\inspect.AssemblyInfo.cs
+C:\Users\TestUser\spec-kit-app\spec-kit-app\.tmp\inspect_nunit\obj\Debug\net10.0\inspect.csproj.CoreCompileInputs.cache
+C:\Users\TestUser\spec-kit-app\spec-kit-app\.tmp\inspect_nunit\obj\Debug\net10.0\inspect.dll
+C:\Users\TestUser\spec-kit-app\spec-kit-app\.tmp\inspect_nunit\obj\Debug\net10.0\refint\inspect.dll
+C:\Users\TestUser\spec-kit-app\spec-kit-app\.tmp\inspect_nunit\obj\Debug\net10.0\inspect.pdb
+C:\Users\TestUser\spec-kit-app\spec-kit-app\.tmp\inspect_nunit\obj\Debug\net10.0\inspect.genruntimeconfig.cache
+C:\Users\TestUser\spec-kit-app\spec-kit-app\.tmp\inspect_nunit\obj\Debug\net10.0\ref\inspect.dll
